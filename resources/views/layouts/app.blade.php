@@ -31,7 +31,7 @@
 
 <body class="font-sans antialiased">
     <x-jet-banner />
-
+<h1>hola a todos</h1>
     <div class="min-h-screen bg-gray-100">
         @livewire('navigation')
 
